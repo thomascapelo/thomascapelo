@@ -1,4 +1,4 @@
-### Hi there 👋 - Web Developer 🚀
+### Hi there 👋 - Full-stack Developer 🚀
 
 👉 As a sales professional with expertise in customer relationship and project management, I have always been intrigued by the potential of a career in web development. 
 
