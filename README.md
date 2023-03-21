@@ -1,6 +1,7 @@
 ### Hi there 👋 - Web Developer 🚀
 
 👉 As a sales professional with expertise in customer relationship and project management, I have always been intrigued by the potential of a career in web development. 
+
 After completing the Web Developer Le Wagon bootcamp, I am now ready to bring my technical skills to the table as a full-stack developer. With a combination of interpersonal and problem-solving abilities, I am eager to contribute to a constantly evolving and exciting industry.
 
 - 📫 How to reach me: thomas.cappelli@gmail.com
